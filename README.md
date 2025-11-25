@@ -114,18 +114,7 @@ Un año es bisiesto si cumple:
 - **C:** Lenguaje de programación de salida
 - **GCC:** Compilador de GNU
 
-## 👥 Contribuciones
-
-Este proyecto fue desarrollado como trabajo final para la materia de Sintaxis y Semántica de los Lenguajes.
-
 ## 📄 Licencia
 
 Este proyecto es de uso académico.
 
-## 🤝 Autor
-
-[Tu nombre y datos del grupo]
-
----
-
-⭐ Si este proyecto te fue útil, no olvides darle una estrella en GitHub
